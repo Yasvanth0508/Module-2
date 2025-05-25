@@ -21,6 +21,6 @@ b = int(input())
 
 
 ## Output
-![Uploading 438832285-075c2ff7-e4b6-43d1-b6b6-187cbda60cc4.png…]()
+![438832285-075c2ff7-e4b6-43d1-b6b6-187cbda60cc4](https://github.com/user-attachments/assets/ae49cbb4-cce9-4649-adbf-b483b4afac90)
 
 ## Result
